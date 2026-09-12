@@ -1,0 +1,26 @@
+{
+  "name": "typescript-crash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah-Niaz/Typescript-Crash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Abdullah-Niaz/Typescript-Crash/issues"
+  },
+  "homepage": "https://github.com/Abdullah-Niaz/Typescript-Crash#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
